@@ -31,3 +31,14 @@ A fully functional multi-page front-end website.
 Clean and commented code using HTML5 and CSS3.
 Embedding of sample educational videos using iframes.
 A structured folder with separate files for HTML, CSS, and any assets (images, icons).
+
+OUTPUT : 
+![Image](https://github.com/user-attachments/assets/8e80c710-6d1a-45cb-b885-01f1129234a0)
+
+![Image](https://github.com/user-attachments/assets/f72b31c7-31a6-40e9-bb3a-dc511a7ff22f)
+
+![Image](https://github.com/user-attachments/assets/cb7524ea-dc19-4406-a25e-309a98ceb061)
+
+![Image](https://github.com/user-attachments/assets/5e21977c-181f-453d-854d-f713ef4feaa4)
+
+![Image](https://github.com/user-attachments/assets/44310f15-734d-418d-b17d-462b79e82056)
